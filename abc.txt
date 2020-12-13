@@ -2,4 +2,8 @@ Hi Ashish
 New line added
 my 3rd line added-AKS
 my 4th line added- aks
+<<<<<<< HEAD
 my 5th line added-rks
+=======
+my 5hh line added -aks
+>>>>>>> 3cd6d9bf6f7a45a54cf291b15caa77afa6c6debc
